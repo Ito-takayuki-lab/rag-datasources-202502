@@ -1,0 +1,115 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u3010\u80cc\u666f\u30fb\u76ee\u7684\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          16.4959716796875,
+          134.0771484375
+        ],
+        [
+          94.5,
+          134.0771484375
+        ],
+        [
+          94.5,
+          147.5244140625
+        ],
+        [
+          16.4959716796875,
+          147.5244140625
+        ]
+      ]
+    },
+    {
+      "title": "1. \u30c7\u30fc\u30bf\u306e\u96c6\u7a4d",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          11.25,
+          238.5
+        ],
+        [
+          112.9248046875,
+          238.5
+        ],
+        [
+          112.9248046875,
+          252.59765625
+        ],
+        [
+          11.25,
+          252.59765625
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u671f\u5f85\u3055\u308c\u308b\u7814\u7a76\u6210\u679c\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          13.99658203125,
+          430.83984375
+        ],
+        [
+          140.25,
+          430.83984375
+        ],
+        [
+          140.25,
+          445.078125
+        ],
+        [
+          13.99658203125,
+          445.078125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/240401_CDDKND_08"
+}

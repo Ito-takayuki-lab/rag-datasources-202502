@@ -1,0 +1,142 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u3010\u80cc\u666f\u30fb\u76ee\u7684\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          9.0,
+          134.93408203125
+        ],
+        [
+          90.4541015625,
+          134.93408203125
+        ],
+        [
+          90.4541015625,
+          150.9521484375
+        ],
+        [
+          9.0,
+          150.9521484375
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u7814\u7a76\u65b9\u6cd5(\u624b\u6cd5\u30fb\u65b9\u6cd5)\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          9.75,
+          264.462890625
+        ],
+        [
+          178.5,
+          264.462890625
+        ],
+        [
+          178.5,
+          281.865234375
+        ],
+        [
+          9.75,
+          281.865234375
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u671f\u5f85\u3055\u308c\u308b\u7814\u7a76\u6210\u679c\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          9.75,
+          388.916015625
+        ],
+        [
+          146.25,
+          388.916015625
+        ],
+        [
+          146.25,
+          406.318359375
+        ],
+        [
+          9.75,
+          406.318359375
+        ]
+      ]
+    },
+    {
+      "title": "2\u3001\u8d85\u6307\u5411\u6027\u8d85\u97f3\u6ce2\u5834\u3092\u7528\u3044\u305f\u30b5\u30eb\u306e\u6483\u9000\u624b\u6cd5\u306e\u958b\u767a\u30fb\u5b9f\u8a3c",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          427.5,
+          348.046875
+        ],
+        [
+          700.01953125,
+          348.046875
+        ],
+        [
+          700.01953125,
+          361.7578125
+        ],
+        [
+          427.5,
+          361.7578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/240401_AFF_02"
+}

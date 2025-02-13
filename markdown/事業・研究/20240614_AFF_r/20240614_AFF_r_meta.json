@@ -1,0 +1,81 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u3010\u80cc\u666f\u30fb\u76ee\u7684\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          5.25,
+          145.5
+        ],
+        [
+          91.739501953125,
+          145.5
+        ],
+        [
+          91.739501953125,
+          160.1806640625
+        ],
+        [
+          5.25,
+          160.1806640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          30
+        ],
+        [
+          "Span",
+          30
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/20240614_AFF_r"
+}

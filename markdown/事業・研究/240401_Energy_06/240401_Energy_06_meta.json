@@ -1,0 +1,77 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u3010\u671f\u5f85\u3055\u308c\u308b\u7814\u7a76\u6210\u679c\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          12.044677734375,
+          464.326171875
+        ],
+        [
+          161.103515625,
+          464.326171875
+        ],
+        [
+          161.103515625,
+          482.255859375
+        ],
+        [
+          12.044677734375,
+          482.255859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/240401_Energy_06"
+}

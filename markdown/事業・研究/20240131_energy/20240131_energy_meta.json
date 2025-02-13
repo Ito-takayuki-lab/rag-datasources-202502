@@ -1,0 +1,138 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u3010\u8ab2\u984c\u540d\u3011 \u30d0\u30a4\u30aa\u30a8\u30b3\u30ce\u30df\u30fc\u306b\u5bfe\u5fdc\u3057\u305f\u6d77\u85fb\u985e\u306e\u5927\u91cf\u990a\u6b96\u30b3\u30a2\u6280\u8853\u306e\u7814\u7a76\u958b\u767a\u3068\u798f\u5cf6\u770c\u6cbb\u5cb8\u306b\u304a\u3051\u308b\n\u751f\u7523\u62e0\u70b9\u5f62\u6210\u306e\u5b9f\u8a3c\u7814\u7a76",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          5.25,
+          4.37530517578125
+        ],
+        [
+          645.46875,
+          4.37530517578125
+        ],
+        [
+          645.46875,
+          37.408447265625
+        ],
+        [
+          5.25,
+          37.408447265625
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u7814\u7a76\u958b\u767a\u306e\u80cc\u666f\u3068\u76ee\u7684\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.3447265625,
+          46.373291015625
+        ],
+        [
+          184.5,
+          46.373291015625
+        ],
+        [
+          184.5,
+          62.786865234375
+        ],
+        [
+          28.3447265625,
+          62.786865234375
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u7814\u7a76\u958b\u767a\u306e\u5185\u5bb9\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          6.75,
+          180.87890625
+        ],
+        [
+          119.35546875,
+          180.87890625
+        ],
+        [
+          119.35546875,
+          199.072265625
+        ],
+        [
+          6.75,
+          199.072265625
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u671f\u5f85\u3055\u308c\u308b\u7814\u7a76\u6210\u679c\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          20.25,
+          434.53125
+        ],
+        [
+          161.25,
+          434.53125
+        ],
+        [
+          161.25,
+          452.98828125
+        ],
+        [
+          20.25,
+          452.98828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          44
+        ],
+        [
+          "Span",
+          44
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/20240131_energy"
+}

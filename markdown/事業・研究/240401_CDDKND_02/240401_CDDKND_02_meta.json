@@ -1,0 +1,104 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u3010\u80cc\u666f\u30fb\u76ee\u7684\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          10.5,
+          146.865234375
+        ],
+        [
+          85.836181640625,
+          146.865234375
+        ],
+        [
+          85.836181640625,
+          160.576171875
+        ],
+        [
+          10.5,
+          160.576171875
+        ]
+      ]
+    },
+    {
+      "title": "(2)\u307e\u3061\u3065\u304f\u308a\u7814\u7a76\u3068\u5b9f\u8df5",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          4.5,
+          291.884765625
+        ],
+        [
+          148.5,
+          291.884765625
+        ],
+        [
+          148.5,
+          307.177734375
+        ],
+        [
+          4.5,
+          307.177734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          61
+        ],
+        [
+          "Span",
+          61
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/240401_CDDKND_02"
+}

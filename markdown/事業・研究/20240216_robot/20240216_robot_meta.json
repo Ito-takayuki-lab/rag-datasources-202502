@@ -1,0 +1,65 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u4e8b\u696d\u6982\u8981:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          15.0,
+          57.28271484375
+        ],
+        [
+          78.0,
+          57.28271484375
+        ],
+        [
+          78.0,
+          74.4873046875
+        ],
+        [
+          15.0,
+          74.4873046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          32
+        ],
+        [
+          "Span",
+          32
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/20240216_robot"
+}

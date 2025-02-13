@@ -1,0 +1,123 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u3010\u80cc\u666f\u30fb\u76ee\u7684\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          5.9271240234375,
+          138.0
+        ],
+        [
+          96.26220703125,
+          138.0
+        ],
+        [
+          96.26220703125,
+          153.0615234375
+        ],
+        [
+          5.9271240234375,
+          153.0615234375
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u7814\u7a76\u65b9\u6cd5(\u624b\u6cd5\u30fb\u65b9\u6cd5)\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          8.1884765625,
+          213.837890625
+        ],
+        [
+          183.75,
+          213.837890625
+        ],
+        [
+          183.75,
+          229.130859375
+        ],
+        [
+          8.1884765625,
+          229.130859375
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u671f\u5f85\u3055\u308c\u308b\u7814\u7a76\u6210\u679c\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          8.25,
+          348.310546875
+        ],
+        [
+          152.34375,
+          348.310546875
+        ],
+        [
+          152.34375,
+          364.658203125
+        ],
+        [
+          8.25,
+          364.658203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          32
+        ],
+        [
+          "Span",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/20240206_AFFr"
+}

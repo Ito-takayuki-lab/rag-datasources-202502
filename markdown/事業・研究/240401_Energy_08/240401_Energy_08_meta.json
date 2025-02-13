@@ -1,0 +1,96 @@
+{
+  "table_of_contents": [
+    {
+      "title": "(\u798f\u5cf6\u6d5c\u901a\u308a\u5730\u57df\u306b\u304a\u3051\u308b\u6c34\u7d20\u30a8\u30cd\u30eb\u30ae\u30fc\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u30e2\u30c7\u30eb\u69cb\u7bc9\u3068",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          152.5341796875,
+          2.8839111328125
+        ],
+        [
+          646.69921875,
+          2.8839111328125
+        ],
+        [
+          646.69921875,
+          22.3626708984375
+        ],
+        [
+          152.5341796875,
+          22.3626708984375
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u80cc\u666f\u30fb\u76ee\u7684\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          11.71142578125,
+          118.388671875
+        ],
+        [
+          98.16650390625,
+          118.388671875
+        ],
+        [
+          98.16650390625,
+          134.6044921875
+        ],
+        [
+          11.71142578125,
+          134.6044921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          59
+        ],
+        [
+          "Span",
+          59
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/240401_Energy_08"
+}

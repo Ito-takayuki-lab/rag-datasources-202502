@@ -1,0 +1,142 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u30a8\u30cd\u30eb\u30ae\u30fc\u5206\u91ce \u4ee4\u548c5\u5e74\u5ea6\u300c\u30cd\u30ac\u30c6\u30a3\u30d6\u30a8\u30df\u30c3\u30b7\u30e7\u30f3\u306e\u30b3\u30a2\u6280\u8853\u306e\u7814\u7a76\u958b\u767a\u30fb\u5b9f\u8a3c\u300d\u59d4\u8a17\u4e8b\u696d\n\u826f\u751f\u8ab2\u984c\u540d\n\u30c6\u30fc\u30de(1)\u690d\u7269\u306eCO2\u56fa\u5b9a\u53ca\u3073\u30cd\u30ac\u30c6\u30a3\u30d6\u30a8\u30df\u30c3\u30b7\u30e7\u30f3\u3078\u306e\u5229\u7528\u306b\u95a2\u3059\u308b\u7814\u7a76\u958b\u767a\u3068\u5b9f\u8a3c",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          4.189453125,
+          40.045166015625
+        ],
+        [
+          591.474609375,
+          38.990478515625
+        ],
+        [
+          591.474609375,
+          69.14794921875
+        ],
+        [
+          4.189453125,
+          70.20263671875
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u80cc\u666f\u30fb\u76ee\u7684\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          23.0419921875,
+          135.6591796875
+        ],
+        [
+          109.5,
+          135.6591796875
+        ],
+        [
+          109.5,
+          152.7978515625
+        ],
+        [
+          23.0419921875,
+          152.7978515625
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u7814\u7a76\u65b9\u6cd5(\u624b\u6cd5\u30fb\u65b9\u6cd5)\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          23.184814453125,
+          252.7294921875
+        ],
+        [
+          195.0,
+          252.7294921875
+        ],
+        [
+          195.0,
+          268.8134765625
+        ],
+        [
+          23.184814453125,
+          268.8134765625
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u671f\u5f85\u3055\u308c\u308b\u7814\u7a76\u6210\u679c\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          16.805419921875,
+          459.052734375
+        ],
+        [
+          163.1982421875,
+          459.052734375
+        ],
+        [
+          163.1982421875,
+          475.927734375
+        ],
+        [
+          16.805419921875,
+          475.927734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          35
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/240401_Energy_02"
+}

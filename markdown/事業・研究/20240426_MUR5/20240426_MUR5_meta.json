@@ -1,0 +1,96 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u3010\u80cc\u666f\u30fb\u76ee\u7684\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          12.75,
+          149.1064453125
+        ],
+        [
+          103.5,
+          149.1064453125
+        ],
+        [
+          103.5,
+          164.6630859375
+        ],
+        [
+          12.75,
+          164.6630859375
+        ]
+      ]
+    },
+    {
+      "title": "\u3010\u7814\u7a76\u65b9\u6cd5(\u624b\u6cd5\u30fb\u65b9\u6cd5)\u3011",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          14.25,
+          247.1923828125
+        ],
+        [
+          190.5,
+          247.1923828125
+        ],
+        [
+          190.5,
+          262.7490234375
+        ],
+        [
+          14.25,
+          262.7490234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          25
+        ],
+        [
+          "Span",
+          25
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/20240426_MUR5"
+}

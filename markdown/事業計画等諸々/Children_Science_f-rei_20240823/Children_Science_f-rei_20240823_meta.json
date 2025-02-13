@@ -1,0 +1,65 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u514b\u670d\u3078 \u6cbb\u7642\u56f0\u96e3\u306a\u75c5",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.484619140625,
+          261.0546875
+        ],
+        [
+          517.3848266601562,
+          261.0546875
+        ],
+        [
+          517.3848266601562,
+          312.5185546875
+        ],
+        [
+          62.484619140625,
+          312.5185546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          2103
+        ],
+        [
+          "Line",
+          1007
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Children_Science_f-rei_20240823"
+}
